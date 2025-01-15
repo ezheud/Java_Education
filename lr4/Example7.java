@@ -4,10 +4,9 @@ public class Example7 {
     public static void main(String[] args) {
         int line = 22;                      // назначенное количество строк
         int cols = 22;                      // назначенное количество столбцов
+
         int[][] snakeArray = new int[line][cols];
-
-        int num = 1;                        // начальное значение для заполнения массива
-
+        int num = 1;      // начальное значение для заполнения массива
         for (int i = 0; i < line; i++) {
             boolean isRowEven = (i % 2 == 0);           // проверка на четность
 
