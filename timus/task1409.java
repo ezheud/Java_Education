@@ -3,6 +3,8 @@ package timus;
 import java.util.Scanner;
 
 public class task1409 {
+    //В единственной строке записано 2 числа — количество банок, простреленных Гарри и Ларри соответственно
+    // Выведите 2 числа — количество банок, не простреленных Гарри и Ларри соответственно.
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

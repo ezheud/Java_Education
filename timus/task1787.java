@@ -3,6 +3,8 @@ package timus;
 import java.util.Scanner;
 
 public class task1787 {
+    //Выведите количество машин, стоящих в пробке на повороте через n минут после начала наблюдений.
+
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
