@@ -1,4 +1,4 @@
-package lr7_Example5;
+package lr7.lr7_Example4;
 
 // Первый класс
 class FirstClass {
@@ -80,7 +80,7 @@ class ThirdClass extends SecondClass {
 }
 
 // Основной класс для тестирования
-public class Example5 {
+public class Example4 {
     public static void main(String[] args) {
         // Создание объекта FirstClass
         FirstClass first = new FirstClass('A');

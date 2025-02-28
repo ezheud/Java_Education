@@ -1,4 +1,4 @@
-package lr7_Example3;
+package lr7.lr7_Example3;
 
 // Первый суперкласс
 class SuperClass {

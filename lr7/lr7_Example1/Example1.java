@@ -1,4 +1,4 @@
-package lr7_Example1;
+package lr7.lr7_Example1;
     // Суперкласс
  class SuperClass {
         private String text;
