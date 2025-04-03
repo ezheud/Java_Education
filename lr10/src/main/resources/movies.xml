@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><movies>
+    <movie>
+        <title>Крестный отец</title>
+        <director>Фрэнсис Форд Коппола</director>
+        <year>1972</year>
+        <genre>Криминал</genre>
+    </movie>
+    <movie>
+        <title>Побег из Шоушенка</title>
+        <director>Фрэнк Дарабонт</director>
+        <year>1994</year>
+        <genre>Драма</genre>
+    </movie>
+<movie><title>Бумер</title><director>Петр Буслов</director><year>2003</year><genre>Криминальная драма</genre></movie></movies>
