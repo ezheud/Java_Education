@@ -7,7 +7,9 @@ import java.io.InputStreamReader;
 
 public class task1313 {
 
-
+//На выходе преобразователя должна получиться последовательность для ввода в новый монитор. Пиксели нумеруются от левого 
+    верхнего угла, по диагоналям, слева-направо и снизу-вверх. Подробнее объяснять тут долго и неинтересно, 
+    посмотрите на пример, дальше сами догадаетесь.
 
     public static void main(String[] args) throws IOException {
         String inputFileName = "timus_task/input.txt";
